@@ -1,1 +1,1 @@
-#Finds the next prime
+Finds the next prime
